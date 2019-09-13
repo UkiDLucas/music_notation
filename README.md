@@ -1,5 +1,6 @@
-# Music Notation Using LilyPond app
-Music notation that creates beautiful PDF music sheets in PDF format.
+# Music Notation
 
-Notation Instructions:
-http://lilypond.org/doc/v2.18/Documentation/notation/pitches
+At this moment I am using https://flat.io/
+
+The music export is in MXL:
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN"
